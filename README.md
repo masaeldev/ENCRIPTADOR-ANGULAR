@@ -1,6 +1,10 @@
-# Encriptador
+# Encriptador de texto para alura hecho con Angular Cli
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
+
+# Codigo hecho con Alura
+
+Tendremos en cuenta que aqui se realizar con componentes en los cuales tenemos mas agrupación de estilos y con javascript
 
 ## Development server
 

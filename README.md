@@ -6,6 +6,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Tendremos en cuenta que aqui se realizar con componentes en los cuales tenemos mas agrupación de estilos y con javascript
 
+# Agregando componentes en html y estilos
+
+Se agrego estilos al html para que se vea mas estico y tenga mucha mas precensia, esto fue con ayuda de las clases tomadas anteriormente con Alura.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
